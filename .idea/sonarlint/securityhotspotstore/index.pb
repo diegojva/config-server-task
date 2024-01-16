@@ -7,3 +7,15 @@ F
 author-service-dev.yml,1\e\1e7d3e6501866dc9e569ba87f65dfbed64610ac6
 F
 author-service-pro.yml,d\e\de3a7923897bc6caba7c77b69bad930a5660c1ff
+@
+book-service.yml,a\a\aa0ad474d5d2b8ad04ff4e5fe29779b36cd595d2
+D
+book-service-dev.yml,f\1\f17f679e9b4477deef31f4ad9b323adeadb944fa
+D
+book-service-pro.yml,3\c\3c3a216f8557d9635d79aa6cb8bc2c921749c1d5
+F
+book-store-service.yml,9\f\9ff4bfd0eaab869c89dd90e878500a0a4f15ebef
+J
+book-store-service-dev.yml,1\1\11ddbe007216b6457790d7d176fa0bbd77373409
+J
+book-store-service-pro.yml,1\7\173f5d9a8ff6783fed28c40afb83a96ce51de237
