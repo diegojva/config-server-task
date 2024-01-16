@@ -1,4 +1,2 @@
 server:
   port: 7002
-  servlet:
-    context-path: /api/v1
