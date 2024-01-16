@@ -1,2 +1,5 @@
+spring:
+  application:
+    name: author-service
 server:
     port: 7001
